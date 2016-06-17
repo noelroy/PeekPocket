@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PeekPocket</string>
+    <string name="Rs">\u20B9</string>
+    <string name="from_date">Select Date</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="spin_arrays">
+        <item>Expense</item>
+        <item>Income</item>
+    </string-array>
+    <string-array name="long_menu_array">
+        <item>Delete</item>
+    </string-array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
